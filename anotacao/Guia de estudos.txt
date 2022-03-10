@@ -1,0 +1,5 @@
+Passos iniciais para ser um desenvolvedor
+1 - lógica de programação
+2- Back-end ou Front-end
+3- programação orientada a objetos (POO)
+4- linguagens e frameworks
